@@ -241,7 +241,7 @@ UniqueID=F3A28FB4-D769-4BF5-B40D-1DF740140B35
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=28
+VariationCount=29
 Variation1=Designator=R148|UniqueId=\ASYYMBQE\KFFRDGFO|Kind=1|AlternatePart==Value
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=R148
@@ -322,6 +322,7 @@ ParamVariation26=ParameterName=Comment|VariantValue==Value
 ParamDesignator26=R61
 Variation27=Designator=CON1|UniqueId=\CHWGPYNK\MBMPEDVJ\MACIQZFN|Kind=1|AlternatePart= 
 Variation28=Designator=J11|UniqueId=\ASYYMBQE\TYJCTHQF|Kind=1|AlternatePart= 
+Variation29=Designator=D3|UniqueId=\PEFFSXSK\NCAXSXNQ|Kind=1|AlternatePart= 
 ParamVariationCount=26
 
 [Configuration1]
